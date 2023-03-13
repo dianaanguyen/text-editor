@@ -13,4 +13,4 @@ Clone the repo and run npm i
 ## Usage <a id="usage"></a>
 Run npm start. The application should be able to run on localhost:3000. 
 ## Visual <a id="visual"></a>
-![Screen Shot 2023-03-12 at 4 56 50 PM](https://user-images.githubusercontent.com/111664734/224582075-5ac1a1a9-ccad-4a85-8d6a-dc1c195166ed.png)
+![Screen Shot 2023-03-12 at 5 00 50 PM](https://user-images.githubusercontent.com/111664734/224582151-9566b98e-c050-4470-902d-d613912eaee1.png)
